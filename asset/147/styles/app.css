@@ -355,6 +355,7 @@ label
 .navbar-defaultSilver .navbar-navSilver > li > a
 {
   color: #000000;
+  float: left;
 }
 
 .navSilver > li > a:hover, .navSilver > li > a:focus,
